@@ -2,7 +2,7 @@
 
 ### Backend Software Engineer | Java | Spring Boot | Microservices | Distributed Systems
 
-I'm a Backend Software Engineer with ~2 years of experience building scalable distributed systems and enterprise-grade financial applications.
+I'm a Backend Software Engineer with 2.5 years of experience building scalable distributed systems and enterprise-grade financial applications.
 
 Currently working on backend platforms involving Java, Spring Boot, Microservices, REST APIs, Kafka, Oracle Database, and React.js. My experience includes optimizing high-volume transactional systems, designing production-ready APIs, improving database performance by up to 10×, and supporting mission-critical financial services used by thousands of users.
 
